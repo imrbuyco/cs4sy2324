@@ -5,20 +5,28 @@
  */
 package cs4_truth_buyco;
 
-/**
+ /**
  *
  * @author TRUTH
  */
 public class CS4_Truth_Buyco {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
-        int age = 10;
+
+        String mov1 = "Devil Wears Prada";
+        String mov2 = "Mean Girls";
+        String mov3 = "Legally Blonde";
+
+        float rate1 = 75%; //6.9
+        float rate2 = 84%; //7.1
+        float rate3 = 71%; //6.4
+
+        int date1 = 2006;
+        int date2 = 2004;
+        int date3 = 2001;
+
+        System.out.println("Movie #1");
+        System.out.println("Title" + mov1);
         
-        System.out.println(age + 10);
     }
     
 }
