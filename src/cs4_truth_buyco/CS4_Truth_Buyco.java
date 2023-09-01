@@ -25,7 +25,23 @@ public class CS4_Truth_Buyco {
         int date3 = 2001;
 
         System.out.println("Movie #1");
-        System.out.println("Title" + mov1);
+        System.out.println(" ");
+        System.out.println("Title: " + mov1);
+        System.out.println("Date released: " + date1);
+        System.out.println("Rating: " + rate1);
+        System.out.println(" ");
+        System.out.println("Movie #2");
+        System.out.println(" ");
+        System.out.println("Title: " + mov2);
+        System.out.println("Date released: " + date2);
+        System.out.println("Rating: " + rate2);
+        System.out.println(" ");    
+        System.out.println("Movie #3");
+        System.out.println(" ");
+        System.out.println("Title: " + mov3);
+        System.out.println("Date released: " + date3);
+        System.out.println("Rating: " + rate3);
+        System.out.println(" ");
         
     }
     
