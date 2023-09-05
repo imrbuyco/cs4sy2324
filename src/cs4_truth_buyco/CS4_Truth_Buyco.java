@@ -12,15 +12,15 @@ package cs4_truth_buyco;
 public class CS4_Truth_Buyco {
     public static void main(String[] args) {
 
-        String mov1 = "Mean Girls";
+        String mov1 = "Mean Girls"; //movie name
         String mov2 = "Legally Blonde";
         String mov3 = "Devil Wears Prada";
     
-        int date1 = 2004;
+        int date1 = 2004; //date released
         int date2 = 2001;
         int date3 = 2006;
     
-        int rate1 = 84;
+        int rate1 = 84; //rating on rotten tomatoes
         int rate2 = 71;
         int rate3 = 75;
     
